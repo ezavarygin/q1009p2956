@@ -1,7 +1,7 @@
 The repository contains supplementary materials of the paper
 
 ```
-Zavarygin E. O., Webb, J. K., Dumont V., Riemer-Sorensen S., 2018, MNRAS, accepted...
+Zavarygin E. O., Webb, J. K., Dumont V., Riemer-Sorensen S., 2018, MNRAS, 477, 5536.
 ```
 
 The paper is available at: 
